@@ -49,7 +49,7 @@ Tabelas descartadas:
 - Adição da coluna `shipper_name` em `orders`  
 - Exportação das tabelas transformadas em formato **Excel**
 
-🔗 [Notebook de tratamento dos dados (Google Colab)](https://drive.google.com/file/d/1B9jcO6YcKU-C0iAo7lyRq_MnYGurkrXQ/view?usp=sharing)
+🔗 [Notebook de tratamento dos dados (Google Colab)](https://colab.research.google.com/drive/19bkcqDwCDyFhB6ARHgkfUWd7LwY-alUo?usp=sharing)
 
 ---
 
@@ -79,7 +79,7 @@ Cada aba contém:
 - De **2 a 4 cartões** com métricas diretas  
 - Filtros dinâmicos por **Ano**, **Trimestre** e **Mês**
 
-🔗 [Visualizar Dashboard no Power BI]([https://app.powerbi.com/groups/me/reports/7d4cfdaa-aa77-46a5-8dc1-d50b02d2987e/d698430edfa234eccc9b?ctid=639941cd-f7c0-4c54-9d7d-7ed7b2595e44&experience=power-bi](https://app.powerbi.com/links/SDxekBiUZp?ctid=639941cd-f7c0-4c54-9d7d-7ed7b2595e44&pbi_source=linkShare))
+🔗 [Visualizar Dashboard no Power BI](https://app.powerbi.com/links/SDxekBiUZp?ctid=639941cd-f7c0-4c54-9d7d-7ed7b2595e44&pbi_source=linkShare)
 
 ---
 
