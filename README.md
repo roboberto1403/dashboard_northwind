@@ -49,7 +49,7 @@ Tabelas descartadas:
 - Adição da coluna `shipper_name` em `orders`  
 - Exportação das tabelas transformadas em formato **Excel**
 
-🔗 [Notebook de tratamento dos dados (Google Colab)](https://colab.research.google.com/drive/1B9jcO6YcKU-C0iAo7lyRq_MnYGurkrXQ#scrollTo=Cww2E_D8TrRk)
+🔗 [Notebook de tratamento dos dados (Google Colab)](https://drive.google.com/file/d/1B9jcO6YcKU-C0iAo7lyRq_MnYGurkrXQ/view?usp=sharing)
 
 ---
 
